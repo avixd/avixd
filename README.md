@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @avixd
 - 👀 I’m interested in Business Intelligence and Software Development Life Cycles.
 - 🌱 I’m currently learning Python and SQL.
-- 💞️ I’m looking to collaborate on ML and DL projects
+- 💞️ I’m looking to collaborate on Data Analysis, Machine Learning and Big Data projects
 - 📫 How to reach me drop me a text or connect with me on LinkedIn.
 
 <!---
