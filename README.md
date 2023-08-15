@@ -33,15 +33,16 @@
 • Maintained the ERP accuracy of 500+ locations, ensuring food integrity through FEFO adherence. \
 • Generated inventory reports in Excel. Communicate with stakeholders to close purchase orders. 
 
-# Education						       		
-Master's in Industrial Engineering	| Concordia University (_March 2022_)	 
+# Education		
+
+Master's in Industrial Engineering | Concordia University (_March 2022_)	 
 
 Bachelor of Technology : Mechanical Engingeering | Vellore Institute of Technology (_July 2018_)
 
 
 # Projects
 
-## Sales Analysis
+## 1. Sales Analysis
 ### Problem Statements
 1.	Analyze historical sales and profit and territory. 
 2.	Identify bestselling products and attributed customers and regions. 
