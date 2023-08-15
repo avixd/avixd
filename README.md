@@ -24,7 +24,7 @@
 
 ## **Procurement Consultant @ KLB Group (September 2021 - June 2022)** 
 
-• Collaborate with stakeholders. Gather business objectives. Translate requirements into user stories. 
+• Collaborate with stakeholders. Gather business objectives. Translate requirements into user stories. \
 • Extract and gather data from multiple sources. Data transformation using Power Query M in Excel.  
 
 ## **Inventory Coordinator @ Marche GoodFood (_December 2020 - August 2021_)** 
