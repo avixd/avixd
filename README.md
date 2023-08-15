@@ -27,7 +27,7 @@
 • Collaborate with stakeholders. Gather business objectives. Translate requirements into user stories. 
 • Extract and gather data from multiple sources. Data transformation using Power Query M in Excel.  
 
-## **Inventory Coordinator @ Marche GoodFood (_December 2020 - August 2021_)** \
+## **Inventory Coordinator @ Marche GoodFood (_December 2020 - August 2021_)** 
 
 •  Fulfilled Kanban requests of over 200+ SKUs, promoting customer-centricity and order fulfillment. \
 • Maintained the ERP accuracy of 500+ locations, ensuring food integrity through FEFO adherence. \
