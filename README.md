@@ -22,7 +22,7 @@
 # Work Experience
 ## **Data Analyst @ Canadian Forces Morales and Welfare Services (_July 2022 - Present_)** 
 
-## **Procurement Consultant @ KLB Group (September 2021 - June 2022_)** 
+## **Procurement Consultant @ KLB Group (September 2021 - June 2022)** 
 
 • Collaborate with stakeholders. Gather business objectives. Translate requirements into user stories. 
 • Extract and gather data from multiple sources. Data transformation using Power Query M in Excel.  
