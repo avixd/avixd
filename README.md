@@ -2,11 +2,11 @@
 
 `Business Intelligence Enthusiast`
 
-## Hello World! 🌎
-
-🎯 Avinash is a data analyst and  [content creator](https://www.youtube.com/@PowerBI_Forum/featured) an advocate of life long learning. \
-🏄‍♂️ He provides [consulting services](https://www.fiverr.com/avinashdudani/create-power-bi-dashboards-or-custom-excel-spreadsheets) to clients. \
-💬 Avinash believes in adding value and contributing to the community by providing solutions on the [Microsoft Fabric Community](https://community.powerbi.com/t5/user/viewprofilepage/user-id/491338). He is a Solution Specialist as a bi-product.
+ #Hello World! 🌎
+ 
+🎯 Avinash is a data analyst,  [content creator](https://www.youtube.com/@PowerBI_Forum/featured) an advocate of life long learning. \
+🏄‍♂️ He provides [consulting services](https://www.fiverr.com/avinashdudani/create-power-bi-dashboards-or-custom-excel-spreadsheets) to clients and believes in adding value and contributing to the community.
+💬 In his free time, provides solutions on the [Microsoft Fabric Community](https://community.powerbi.com/t5/user/viewprofilepage/user-id/491338). and is a Solution Specialist as a bi-product. \
 
 ### Technical Skills:
 <img align="left" alt ="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532">
@@ -16,19 +16,21 @@
 <img align="left" alt ="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
 <img align="left" alt ="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> 
 
+\
+
 
 ## Work Experience
-**Data Analyst @ Canadian Forces Morales and Welfare Services (_July 2022 - Present_)** \
+**Data Analyst @ Canadian Forces Morales and Welfare Services (_July 2022 - Present_)** 
 
 **Procurement Consultant @ KLB Group (September 2021 - June 2022_)** \
 
-• Collaborate with stakeholders. Gather business objectives. Translate requirements into user stories. \
-• Extract and gather data from multiple sources. Data transformation using Power Query M in Excel.  \
+• Collaborate with stakeholders. Gather business objectives. Translate requirements into user stories. 
+• Extract and gather data from multiple sources. Data transformation using Power Query M in Excel.  
 
 **Inventory Coordinator @ Marche GoodFood (_December 2020 - August 2021_)** \
 •  Fulfilled Kanban requests of over 200+ SKUs, promoting customer-centricity and order fulfillment. \
 • Maintained the ERP accuracy of 500+ locations, ensuring food integrity through FEFO adherence. \
-• Generated inventory reports in Excel. Communicate with stakeholders to close purchase orders. \
+• Generated inventory reports in Excel. Communicate with stakeholders to close purchase orders. 
 
 ## Education						       		
 Master's in Industrial Engineering	| Concordia University (_March 2022_)	 			        		
@@ -42,17 +44,17 @@ Bachelor of Technology : Mechanical Engingeering | Vellore Institute of Technolo
 1.	Analyze historical sales and profit and territory. 
 2.	Identify bestselling products and attributed customers and regions. 
 3.	Forecast revenue for the next 7 periods. 
-4.	Execute pricing scenario analysis to understand increase in product cost.
+4.	Execute pricing scenario analysis to understand the increase in product cost.
 
 A [quick demonstration](https://1drv.ms/v/s!AkGuKJKxOlnAgQrVkaSbRyKB1Oef?e=b4LsRw) and [documentation](https://1drv.ms/b/s!AkGuKJKxOlnAgQnnpK9jm-kMUHM6?e=1cqZ8d) of the solution along with the features mentioned below.
 
-Following functionalities available:
+Following functionalities are available:
 
-1. Conditional drilldown using 2 columns: Customer ad Region to analyze Profit.
+1. Conditional drill-down using 2 columns: Customer ad Region to analyze Profit.
 2. Dynamic Product Pricing Scenario Analysis.
-3. Forecast Revenue for next 7 months+.
+3. Forecast Revenue for the next 7 months+.
 4. Pareto Chart for Regions and Product Sub Categories. Using the 80-20 Principle to understand best sellers.
-5. Drill down Territories By Fiscal Year, Customer Details and (Sub)/Product Categories.
+5. Drill down Territories By Fiscal Year, Customer Details, and (Sub)/Product Categories.
 6. Page Navigation and Custom Filter Panes.
 
 ## Certifications						       		
