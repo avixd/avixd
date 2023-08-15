@@ -2,7 +2,7 @@
 
 `Business Intelligence Enthusiast`
 
-#Hello World! 🌎
+## Hello World! 🌎
  
 🎯 Avinash is a Data analyst,  [content creator](https://www.youtube.com/@PowerBI_Forum/featured) an advocate of life long learning. \
 🏄‍♂️ He provides [consulting services](https://www.fiverr.com/avinashdudani/create-power-bi-dashboards-or-custom-excel-spreadsheets) to clients and believes in adding value and contributing to the community.
