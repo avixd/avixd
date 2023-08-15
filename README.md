@@ -1,10 +1,10 @@
-# 🏎 Avinash Dudani
+#  Avinash Dudani 🏎
 
 `Business Intelligence Enthusiast`
 
  #Hello World! 🌎
  
-🎯 Avinash is a data analyst,  [content creator](https://www.youtube.com/@PowerBI_Forum/featured) an advocate of life long learning. \
+🎯 Avinash is a Data analyst,  [content creator](https://www.youtube.com/@PowerBI_Forum/featured) an advocate of life long learning. \
 🏄‍♂️ He provides [consulting services](https://www.fiverr.com/avinashdudani/create-power-bi-dashboards-or-custom-excel-spreadsheets) to clients and believes in adding value and contributing to the community.
 💬 In his free time, provides solutions on the [Microsoft Fabric Community](https://community.powerbi.com/t5/user/viewprofilepage/user-id/491338). and is a Solution Specialist as a bi-product. \
 
@@ -19,7 +19,7 @@
 \
 
 
-## Work Experience
+### Work Experience
 **Data Analyst @ Canadian Forces Morales and Welfare Services (_July 2022 - Present_)** 
 
 **Procurement Consultant @ KLB Group (September 2021 - June 2022_)** \
@@ -32,14 +32,14 @@
 • Maintained the ERP accuracy of 500+ locations, ensuring food integrity through FEFO adherence. \
 • Generated inventory reports in Excel. Communicate with stakeholders to close purchase orders. 
 
-## Education						       		
+### Education						       		
 Master's in Industrial Engineering	| Concordia University (_March 2022_)	 			        		
 Bachelor of Technology : Mechanical Engingeering | Vellore Institute of Technology (_July 2018_)
 
 
-## Projects
+### Projects
 
-1. Sales Analysis:
+## Sales Analysis:
 # Problem Statements
 1.	Analyze historical sales and profit and territory. 
 2.	Identify bestselling products and attributed customers and regions. 
@@ -57,7 +57,7 @@ Following functionalities are available:
 5. Drill down Territories By Fiscal Year, Customer Details, and (Sub)/Product Categories.
 6. Page Navigation and Custom Filter Panes.
 
-## Certifications						       		
+### Certifications						       		
 - [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/AvinashDudani-1643/9C08355751359CA8?sharingId=9C6E9324E58F36A7)		        		
 - [Microsoft Certified: Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/AvinashDudani-1643/5770642F4E1D9B76?sharingId=9C6E9324E58F36A7)
 - [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/AvinashDudani-1643/A2EBF838334A3EE4?sharingId=9C6E9324E58F36A7)
