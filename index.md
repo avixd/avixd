@@ -4,120 +4,33 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+[View my Projects here](./another-page.html).
 
 
-### Definition lists can be used with HTML syntax.
+# About Me
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+🎯 Avinash is a Data analyst,  [content creator](https://www.youtube.com/@PowerBI_Forum/featured) an advocate of life long learning. \
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+🏄‍♂️ He provides [consulting services](https://www.fiverr.com/avinashdudani/create-power-bi-dashboards-or-custom-excel-spreadsheets) to clients and believes in adding value and contributing to the community.
 
-```
-The final element.
-```
+💬 In his free time, provides solutions on the [Microsoft Fabric Community](https://community.powerbi.com/t5/user/viewprofilepage/user-id/491338). and is a Solution Specialist as a bi-product..
+
+
+# Work Experience
+
+#### **Data Analyst @ Canadian Forces Morales and Welfare Services (_July 2022 - Present_)** 
+
+
+#### **Procurement Consultant @ KLB Group (September 2021 - June 2022)** 
+
+* Collaborate with stakeholders. Gather business objectives. Translate requirements into user stories. \
+* Extract and gather data from multiple sources. Data transformation using Power Query M in Excel.  
+
+#### **Inventory Coordinator @ Marche GoodFood (_December 2020 - August 2021_)** 
+
+*  Fulfilled Kanban requests of over 200+ SKUs, promoting customer-centricity and order fulfillment. \
+* Maintained the ERP accuracy of 500+ locations, ensuring food integrity through FEFO adherence. \
+* Generated inventory reports in Excel. Communicate with stakeholders to close purchase orders. 
+
+
+
