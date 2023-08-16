@@ -2,10 +2,29 @@ title: Avinash Dudani
 logo: /assets/img/Capture.PNG
 description: Data Analyst
 show_downloads: true
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
+
+
+##PLUGINS
+
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+ - jekyll-archives
+  - jekyll-diagrams
+  - jekyll-email-protect
+  - jekyll-feed
+  - jekyll-get-json
+  - jekyll-imagemagick
+  - jekyll-jupyter-notebook
+  - jekyll-link-attributes
+  - jekyll-minifier
+  - jekyll-paginate-v2
+  - jekyll/scholar
+  - jekyll-sitemap
+  - jekyll-toc
+  - jekyll-twitter-plugin
+  - jemoji
 
 
 # -----------------------------------------------------------------------------
