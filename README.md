@@ -19,7 +19,7 @@
 
 
 
-# Work Experience
+/# Work Experience
 ## **Data Analyst @ Canadian Forces Morales and Welfare Services (_July 2022 - Present_)** 
 
 ## **Procurement Consultant @ KLB Group (September 2021 - June 2022)** 
