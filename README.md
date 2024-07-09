@@ -18,7 +18,7 @@
 
 
 
-/
+\
 # Work Experience
 ## **Data Analyst @ Canadian Forces Morales and Welfare Services (_July 2022 - Present_)** 
 
