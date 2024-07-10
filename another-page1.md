@@ -1,6 +1,3 @@
----
-layout: default
----
 
 ## Welcome to Avinash's Multiple Linear Regression Project
 
