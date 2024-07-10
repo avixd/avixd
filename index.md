@@ -1,14 +1,11 @@
----
-layout: default
----
 
 # About Me
 
-🎯 Avinash is a Data analyst,  [content creator](https://www.youtube.com/@PowerBI_Forum/featured) an [advocate of life long learning](./another-page2.html). 
+🎯 Avinash is a Data analyst, Data Engineering Enthusiast and an [advocate of life long learning](./another-page2.html). 
 
 🏄‍♂️ He provides [consulting services](https://www.fiverr.com/avinashdudani/create-power-bi-dashboards-or-custom-excel-spreadsheets) to clients and believes in adding value in our community.
 
-💬 In his free time, provides solutions on the [Microsoft Fabric Community](https://community.powerbi.com/t5/user/viewprofilepage/user-id/491338) and is a Solution Specialist as a bi-product.
+💬 In his free time, provides solutions on the [Microsoft Fabric Community](https://community.powerbi.com/t5/user/viewprofilepage/user-id/491338) and is a Fabric Superuser as a bi-product.
 
 # Projects
 *[Adventure Works Sales Analysis using Power BI](./another-page.html).
