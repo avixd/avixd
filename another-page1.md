@@ -54,7 +54,7 @@ y = dataset.iloc[:, 4] #all values from rows in the last column
 #Convert the column into categorical columns
 ```
 
-### HeatmapPlot to understand correlations
+### Heatmap Plot to understand correlations
 
 ```python
 plt.figure(figsize=( 8,8))
@@ -74,21 +74,21 @@ X=pd.concat([X,states],axis=1)
 ```
 
 
-## Splitting the dataset into the Training set and Test set
+### Splitting the dataset into the Training set and Test set
 ```python
 from sklearn.model_selection import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = 0)
 ```
 
 
-## Fitting Multiple Linear Regression to the Training set
+### Fitting Multiple Linear Regression to the Training set
 
 ```python
 from sklearn.linear_model import LinearRegression
 regressor = LinearRegression()
 regressor.fit(X_train, y_train)
 ```
-## Predicting the Test set results i.e. Predicting Profit based on Administration spend, Marketing spend, R&D spend and State.
+### Predicting the Test set results i.e. Predicting Profit based on Administration spend, Marketing spend, R&D spend and State.
 
 ```python
 y_pred = regressor.predict(X_test)
@@ -100,9 +100,9 @@ score=r2_score(y_test,y_pred)
 print(score)
 ```
 
-![](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/profit.png)
-![](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/profit2.png)
-![](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/LR_null.png)
+![profit1](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/profit.png)
+![profit1](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/profit2.png)
+![R value](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/LR_null.png)
 
 
 [back](./)
