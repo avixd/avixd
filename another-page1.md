@@ -101,9 +101,9 @@ print(score)
 ```
 
 
-profit1(/assets/img/profit1.PNG)
+![profit1](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/profit1.png)
 ![profit1](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/profit2.png)
-![R value](<img align="left" alt ="Java" width="30px" style="padding-right:10px;" src="https://github.com/avixd/dudaniavinash.github.io/blob/main/images/LR_null.png">)
+![R value](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/LR_null.png)
 
 
 [back](./)
