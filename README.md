@@ -4,8 +4,8 @@
 
 ## Hello World! 🌎
  
-🎯 Avinash is a Data analyst,  an advocate of life long learning. \
-🏄‍♂️ He provides [consulting services](https://www.fiverr.com/avinashdudani/create-power-bi-dashboards-or-custom-excel-spreadsheets) to clients and believes in adding value and contributing to the community.
+🎯 Avinash is a Data analyst, Data Engineering Enthusiast  an advocate of life long learning. \
+🏄‍♂️ He provides [consulting services](https://topmate.io/avinash_dudani) to clients and believes in adding value and contributing to the community.
 💬 In his free time, provides solutions on the [Microsoft Fabric Community](https://community.powerbi.com/t5/user/viewprofilepage/user-id/491338). and is a Fabric Superuser as a bi-product. 
 
 # Technical Skills:
