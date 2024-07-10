@@ -1,7 +1,7 @@
 
 ## Welcome to Avinash's Multiple Linear Regression Project
 
-Using the Adventure Works Database provided by Microsoft, Sales between 2015-2017 are analyzed.
+
 
 ### Problem Statement
 Multiple linear regression to predict Profit based on Administration spend, Marketing spends, R&D spend and State. Explain the trend and correlation between dependent and independent variables.		
