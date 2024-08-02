@@ -10,7 +10,7 @@
 # Projects
 *[Adventure Works Sales Analysis using Power BI](./Sales-Analysis-Project.html).
 \
-*[Multiple Linear Regression using Python](./another-page1.html).
+*[Multiple Linear Regression using Python](./Multiple-Linear-Regression.html).
 \
 *[Excel Automation using Power Automate Desktop](./another-page3.html).
 
