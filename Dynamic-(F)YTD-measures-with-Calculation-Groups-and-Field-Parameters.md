@@ -55,7 +55,7 @@ _output
 ```
 Calculation Item 4 : YTD Variance $ (TY vs LY) = 
 
-// leverage to previously created calculation item
+// leverage previously created calculation item
 
 var _TY_FYTD =
 calculate(
@@ -63,7 +63,7 @@ selectedmeasure(),
 'Test_TimeIntelligence'[Name] = "TY Fiscal YTD" 
 ) 
 
-// leverage to previously created calculation item
+// leverage previously created calculation item
 
 var _LY_FYTD =
 calculate(
