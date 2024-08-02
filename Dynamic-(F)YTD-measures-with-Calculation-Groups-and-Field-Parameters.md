@@ -1,4 +1,4 @@
-# [How To Create Dynamic (Fiscal/) YTD measures for any selected metric in Power BI ?](youtubelink)
+# [How To Create Dynamic (Fiscal/) YTD measures for any selected metric in Power BI ?](https://www.youtube.com/watch?v=EINCqmsml1M)
 
 Open source ["Contoso Dataset"](https://www.microsoft.com/en-us/download/details.aspx?id=18279&msockid=3147878eac3f607d1fc995f2ad956136) to follow along. 
 
