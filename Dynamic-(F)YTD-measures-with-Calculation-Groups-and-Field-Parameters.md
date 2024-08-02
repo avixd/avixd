@@ -2,7 +2,10 @@
 
 Open source ["Contoso Dataset"](https://www.microsoft.com/en-us/download/details.aspx?id=18279&msockid=3147878eac3f607d1fc995f2ad956136) to follow along. 
 
-Pre-requisite : Create a couple of metrics such as: Sales $, Cost $, Profit $, Units Sold etc. 
+Pre-requisite : 
+1. Download the Contoso Sample Data. Restore this database in a Data warehouse ( e.x. MS SQL Server ).
+2. Create a connection to the database / server in Power BI Desktop and load relevant dimensions and fact tables.
+3. Create couple of metrics in Power BI Desktop such as: Sales $, Cost $, Profit $, Units Sold etc. 
 
 
 ## Step 1.
