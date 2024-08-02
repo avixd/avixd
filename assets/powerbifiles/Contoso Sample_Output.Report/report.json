@@ -1,0 +1,51 @@
+{
+  "config": "{\"version\":\"5.55\",\"themeCollection\":{\"baseTheme\":{\"name\":\"CY24SU06\",\"version\":\"5.56\",\"type\":2}},\"activeSectionIndex\":0,\"defaultDrillFilterOtherVisuals\":true,\"linguisticSchemaSyncVersion\":2,\"settings\":{\"useNewFilterPaneExperience\":true,\"allowChangeFilterTypes\":true,\"useStylableVisualContainerHeader\":true,\"queryLimitOption\":6,\"useEnhancedTooltips\":true,\"exportDataMode\":1,\"useDefaultAggregateDisplayName\":true},\"objects\":{\"section\":[{\"properties\":{\"verticalAlignment\":{\"expr\":{\"Literal\":{\"Value\":\"'Top'\"}}}}}],\"outspacePane\":[{\"properties\":{\"expanded\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}",
+  "layoutOptimization": 0,
+  "resourcePackages": [
+    {
+      "resourcePackage": {
+        "disabled": false,
+        "items": [
+          {
+            "name": "CY24SU06",
+            "path": "BaseThemes/CY24SU06.json",
+            "type": 202
+          }
+        ],
+        "name": "SharedResources",
+        "type": 2
+      }
+    }
+  ],
+  "sections": [
+    {
+      "config": "{\"visibility\":0}",
+      "displayName": "Final YTD",
+      "displayOption": 1,
+      "filters": "[]",
+      "height": 1200.00,
+      "name": "24812c76523336d06e40",
+      "visualContainers": [
+        {
+          "config": "{\"name\":\"b5ed3b9030bafb3134c1\",\"layouts\":[{\"id\":0,\"position\":{\"x\":150,\"y\":61.66666666666667,\"z\":1000,\"width\":658.3333333333334,\"height\":65,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"slicer\",\"projections\":{\"Values\":[{\"queryRef\":\"Metric.Metric\",\"active\":true}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Metric\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Metric\"},\"Name\":\"Metric.Metric\",\"NativeReferenceName\":\"Metric\"}]},\"drillFilterOtherVisuals\":true,\"objects\":{\"data\":[{\"properties\":{\"mode\":{\"expr\":{\"Literal\":{\"Value\":\"'Basic'\"}}}}}],\"general\":[{\"properties\":{\"orientation\":{\"expr\":{\"Literal\":{\"Value\":\"1D\"}}},\"filter\":{\"filter\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Metric\",\"Type\":0}],\"Where\":[{\"Condition\":{\"In\":{\"Expressions\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Metric Fields\"}}],\"Values\":[[{\"Literal\":{\"Value\":\"'''Key Measures''[Sales $]'\"}}]]}}}]}}}}],\"selection\":[{\"properties\":{\"strictSingleSelect\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}],\"items\":[{\"properties\":{\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'wf_standard-font, helvetica, arial, sans-serif'\"}}},\"textSize\":{\"expr\":{\"Literal\":{\"Value\":\"12D\"}}}}}],\"header\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"title\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"text\":{\"expr\":{\"Literal\":{\"Value\":\"'SELECT KPI'\"}}},\"alignment\":{\"expr\":{\"Literal\":{\"Value\":\"'center'\"}}},\"fontColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":3,\"Percent\":0}}}}}}}]},\"cachedFilterDisplayItems\":[{\"id\":{\"scopeId\":{\"Comparison\":{\"ComparisonKind\":0,\"Left\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Metric\"}},\"Property\":\"Metric Fields\"}},\"Right\":{\"Literal\":{\"Value\":\"'''Key Measures''[Sales $]'\"}}}}},\"displayName\":\"Sales $\"}]}}",
+          "filters": "[]",
+          "height": 65.00,
+          "width": 658.33,
+          "x": 150.00,
+          "y": 61.67,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"bb30270b4f3aa6a98b31\",\"layouts\":[{\"id\":0,\"position\":{\"x\":140,\"y\":151.66666666666669,\"z\":0,\"width\":1000,\"height\":1003.3333333333334,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"pivotTable\",\"projections\":{\"Values\":[{\"queryRef\":\"Key Measures.Sales $\"}],\"Rows\":[{\"queryRef\":\"DimDate.Date\",\"active\":true}],\"Columns\":[{\"queryRef\":\"Test_TimeIntelligence.Name\",\"active\":true}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"d\",\"Entity\":\"DimDate\",\"Type\":0},{\"Name\":\"t\",\"Entity\":\"Test_TimeIntelligence\",\"Type\":0},{\"Name\":\"k\",\"Entity\":\"Key Measures\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Date\"},\"Name\":\"DimDate.Date\",\"NativeReferenceName\":\"Date\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"t\"}},\"Property\":\"Name\"},\"Name\":\"Test_TimeIntelligence.Name\",\"NativeReferenceName\":\"Name\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"k\"}},\"Property\":\"Sales $\"},\"Name\":\"Key Measures.Sales $\",\"NativeReferenceName\":\"Sales $1\"}],\"OrderBy\":[{\"Direction\":1,\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Date\"}}}]},\"queryFieldParametersByRole\":{\"Values\":[{\"index\":0,\"length\":1,\"expr\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Metric\"}},\"Property\":\"Metric\"}}}]},\"expansionStates\":[{\"roles\":[\"Rows\"],\"levels\":[{\"queryRefs\":[\"DimDate.Date\"],\"isCollapsed\":true,\"isPinned\":true}],\"root\":{\"identityValues\":null}}],\"columnProperties\":{\"Key Measures.Sales $\":{\"displayName\":\"Sales $\"}},\"drillFilterOtherVisuals\":true,\"objects\":{\"columnWidth\":[{\"properties\":{\"value\":{\"expr\":{\"Literal\":{\"Value\":\"138.14285657822379D\"}}}},\"selector\":{\"data\":[{\"scopeId\":{\"Comparison\":{\"ComparisonKind\":0,\"Left\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"TimeIntelligence\"}},\"Property\":\"Name\"}},\"Right\":{\"Literal\":{\"Value\":\"'Calendar YTD'\"}}}}}]}},{\"properties\":{\"value\":{\"expr\":{\"Literal\":{\"Value\":\"146.1428578426411D\"}}}},\"selector\":{\"data\":[{\"scopeId\":{\"Comparison\":{\"ComparisonKind\":0,\"Left\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"TimeIntelligence\"}},\"Property\":\"Name\"}},\"Right\":{\"Literal\":{\"Value\":\"'Fiscal YTD'\"}}}}}]}},{\"properties\":{\"value\":{\"expr\":{\"Literal\":{\"Value\":\"107.57142879885836D\"}}}},\"selector\":{\"data\":[{\"scopeId\":{\"Comparison\":{\"ComparisonKind\":0,\"Left\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"TimeIntelligence\"}},\"Property\":\"Name\"}},\"Right\":{\"Literal\":{\"Value\":\"'TY Fiscal YTD'\"}}}}}]}},{\"properties\":{\"value\":{\"expr\":{\"Literal\":{\"Value\":\"106.99999949889036D\"}}}},\"selector\":{\"data\":[{\"scopeId\":{\"Comparison\":{\"ComparisonKind\":0,\"Left\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"TimeIntelligence\"}},\"Property\":\"Name\"}},\"Right\":{\"Literal\":{\"Value\":\"'LY Fiscal YTD'\"}}}}}]}},{\"properties\":{},\"selector\":{\"data\":[{\"scopeId\":{\"Comparison\":{\"ComparisonKind\":0,\"Left\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Test_TimeIntelligence\"}},\"Property\":\"Name\"}},\"Right\":{\"Literal\":{\"Value\":\"'YTD Variance $ (TY vs LY)'\"}}}}}]}},{\"properties\":{\"value\":{\"expr\":{\"Literal\":{\"Value\":\"104.30178863184732D\"}}}},\"selector\":{\"data\":[{\"scopeId\":{\"Comparison\":{\"ComparisonKind\":0,\"Left\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Test_TimeIntelligence\"}},\"Property\":\"Name\"}},\"Right\":{\"Literal\":{\"Value\":\"'YTD Variance % (TY vs LY) '\"}}}}}]}}],\"columnHeaders\":[{\"properties\":{\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'wf_standard-font, helvetica, arial, sans-serif'\"}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"13D\"}}}}}],\"rowHeaders\":[{\"properties\":{\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'wf_standard-font, helvetica, arial, sans-serif'\"}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"13D\"}}}}}],\"values\":[{\"properties\":{\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'wf_standard-font, helvetica, arial, sans-serif'\"}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"13D\"}}}}}]},\"vcObjects\":{\"stylePreset\":[{\"properties\":{\"name\":{\"expr\":{\"Literal\":{\"Value\":\"'Minimal'\"}}}}}]}}}",
+          "filters": "[{\"name\":\"Filter265c7c51044f6fbb048d\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"DimDate\"}},\"Property\":\"FiscalYear\"}},\"filter\":{\"Version\":2,\"From\":[{\"Name\":\"d\",\"Entity\":\"DimDate\",\"Type\":0}],\"Where\":[{\"Condition\":{\"Not\":{\"Expression\":{\"In\":{\"Expressions\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"FiscalYear\"}}],\"Values\":[[{\"Literal\":{\"Value\":\"'FY07'\"}}],[{\"Literal\":{\"Value\":\"'FY08'\"}}]]}}}}}]},\"type\":\"Categorical\",\"howCreated\":1,\"objects\":{\"general\":[{\"properties\":{\"isInvertedSelectionMode\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}]}}]",
+          "height": 1003.33,
+          "width": 1000.00,
+          "x": 140.00,
+          "y": 151.67,
+          "z": 0.00
+        }
+      ],
+      "width": 1280.00
+    }
+  ]
+}
