@@ -80,7 +80,7 @@ _output
 ```
 
 
-## Step 2. Create a Field Parameter:
+## Step 2. Create a Field Parameter called "Metric":
 
 1. Click on the "Modeling" Tab
 2. Click on "New parameter" -> "Fields". /
@@ -89,5 +89,15 @@ _output
 4. Select the metrics you would like to show the YTD measures for.
 5. Click on create
    ![](/assets/img/Field-Parameter1.png)
+
+## Step 3. Create the visualizations
+
+1. Add a slicer with the "Metric" parameter to the and ensure "Single-select" is enforced.
+2. In a matrix visual, add:
+   2.a. "Date" from the Date Dimension to Rows
+   2.b. "Name" from the Calculation Group into Columns
+   2.c. "Metric" parameter into Values
+
+   ![Output](/assets/img/Field-Parameter-Output.png)
 
 
