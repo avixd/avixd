@@ -16,7 +16,7 @@
 
 
 # Blogs
-*[Dynamic (Fiscal / ) YTD metrics in Power BI using Calculation Groups and Field Parameters](./Dynamic.html).
+*[Dynamic (Fiscal / ) YTD metrics in Power BI using Calculation Groups and Field Parameters](./Dynamic-(F)YTD-measures-with-Calculation-Groups-and-Field-Parameters.html).
 \
 
 # Technical Skills:
