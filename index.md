@@ -7,17 +7,19 @@
 
 💬 In his free time, provides solutions on the [Microsoft Fabric Community](https://community.powerbi.com/t5/user/viewprofilepage/user-id/491338) and is a Fabric Superuser as a bi-product.
 
+# Blogs
+*[Dynamic (Fiscal / ) YTD metrics in Power BI using Calculation Groups and Field Parameters](./Dynamic-(F)YTD-measures-with-Calculation-Groups-and-Field-Parameters.html).
+
+
+
 # Projects
 *[Adventure Works Sales Analysis using Power BI](./Sales-Analysis-Project.html).
 \
 *[Multiple Linear Regression using Python](./Multiple-Linear-Regression.html).
 \
-*[Excel Automation using Power Automate Desktop](./another-page3.html).
+*[Excel Automation using Power Automate Desktop](./PAD-Excel-Automation.html).
 
 
-# Blogs
-*[Dynamic (Fiscal / ) YTD metrics in Power BI using Calculation Groups and Field Parameters](./Dynamic-(F)YTD-measures-with-Calculation-Groups-and-Field-Parameters.html).
-\
 
 # Technical Skills:
 <img align="left" alt ="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532">
