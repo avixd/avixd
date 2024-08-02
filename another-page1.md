@@ -101,9 +101,9 @@ print(score)
 ```
 
 
-![profit1](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/profit1.png)
-![profit1](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/profit2.png)
-![R value](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/LR_null.png)
+![profit1](/assets/img/profit1.png)
+![profit1](/assets/img/profit2.png)
+![R value](/assets/img/LR_null.png)
 
 
 [back](./)
