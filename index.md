@@ -8,7 +8,7 @@
 💬 In his free time, provides solutions on the [Microsoft Fabric Community](https://community.powerbi.com/t5/user/viewprofilepage/user-id/491338) and is a Fabric Superuser as a bi-product.
 
 # Projects
-*[Adventure Works Sales Analysis using Power BI](./another-page.html).
+*[Adventure Works Sales Analysis using Power BI](./Sales-Analysis-Project.html).
 \
 *[Multiple Linear Regression using Python](./another-page1.html).
 \
