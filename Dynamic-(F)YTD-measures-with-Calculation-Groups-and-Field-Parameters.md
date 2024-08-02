@@ -2,6 +2,9 @@
 
 Open source ["Contoso Dataset"](https://www.microsoft.com/en-us/download/details.aspx?id=18279&msockid=3147878eac3f607d1fc995f2ad956136) to follow along. 
 
+Pre-requisite : Create a couple of metrics such as: Sales $, Cost $, Profit $, Units Sold etc. 
+
+
 ## Step 1.
 
 1. Create a calculation group called "Time Inteliigence" using [Tabular Editor 2](https://tabulareditor.github.io/TabularEditor/) by left-clicking on the "Tables" folder -> "Create New" -> "Calculation Group" or Alternatively, using the shortcut "Alt + 7" . 
@@ -76,5 +79,15 @@ Return
 _output
 ```
 
+
+## Step 2. Create a Field Parameter:
+
+1. Click on the "Modeling" Tab
+2. Click on "New parameter" -> "Fields". /
+   ![](/assets/img/Field-Parameter.png)
+
+4. Select the metrics you would like to show the YTD measures for.
+5. Click on create
+   ![](/assets/img/Field-Parameter1.png)
 
 
