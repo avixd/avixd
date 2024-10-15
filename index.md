@@ -21,7 +21,7 @@
 
 
 
-# Technical Skills:
+# Technical Skills
 <img align="left" alt ="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532">
 <img align="left" alt ="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/DAX_logo.svg">
 <img align="left" alt ="Java" width="30px" style="padding-right:10px;" src="https://www.myonlinetraininghub.com/wp-content/uploads/2016/02/power_query_thumb.png">
@@ -29,7 +29,7 @@
 <img align="left" alt ="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
 <img align="left" alt ="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 
-\
+
 
 # Work Experience
 
