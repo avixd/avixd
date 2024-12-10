@@ -27,7 +27,7 @@
 <img align="left" alt ="Java" width="30px" style="padding-right:10px;" src="https://www.myonlinetraininghub.com/wp-content/uploads/2016/02/power_query_thumb.png">
 <img align="left" alt ="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="left" alt ="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-<img align="left" alt ="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<img align="left" alt ="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> \
 
 
 
