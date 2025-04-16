@@ -5,7 +5,7 @@
 Using the Adventure Works Database provided by Microsoft, Sales between 2015-2017 are analyzed.
 Two versions are displayed below:
 - An updated version from 2025 due to enhancements in the Power BI Desktop User Interface
-- A ![historical Project from 2022]((https://1drv.ms/v/s!AkGuKJKxOlnAgQrVkaSbRyKB1Oef?e=b4LsRw))
+- A [historical Project from 2022]((https://1drv.ms/v/s!AkGuKJKxOlnAgQrVkaSbRyKB1Oef?e=b4LsRw))
 
 ## Updated Version is shown below:
 # Problem Statements
