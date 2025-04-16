@@ -5,7 +5,7 @@
 Using the Adventure Works Database provided by Microsoft, Sales between 2015-2017 are analyzed.
 Two versions are displayed below:
 - An updated version from 2025 due to enhancements in the Power BI Desktop User Interface
-- ![The historical Project from 2022](https://1drv.ms/v/s!AkGuKJKxOlnAgQrVkaSbRyKB1Oef?e=b4LsRw)
+- [Watch a demonstration of the the historical project from 2022](https://github.com/avixd/avixd/blob/main/assets/powerbifiles/SalesAnalysisWalkthrough.mp4)
 
 ## Updated Version is shown below and a demonstration to the historical report is linked above 
 
@@ -30,14 +30,14 @@ Two versions are displayed below:
 ```
 
 - YoY Metric Comparison
-![YoY%20Metric%20Comparison](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/YoY%20Metric%20Comparison.PNG)
+![YoY Metric Comparison](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/YoY%20Metric%20Comparison.PNG)
 
 ```
 - Central Region indicates a YoY decline in sales in FY 2018, whereas all sub categories had revenue growth YoY
 ```
 
  - Pareto Analysis
-![Pareto%20Analysis](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/Pareto%20Analysis.PNG)
+![Pareto Analysis](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/Pareto%20Analysis.PNG)
 
 ```
 - Top 3 Subcategories namely Road Bikes (10M or 43%), Mountain Bikes (8M or 35%), and Touring bikes (4M or 17%) account for 22M or 95% of Total Revenue
@@ -45,12 +45,12 @@ Two versions are displayed below:
 
 ### Following functionalities available:
 
-1. Dynamic Parameters enabling KPI selection.
+1. Dynamic Parameters enabling KPI selection
 2. This Year YTD vs Last Year YTD KPI Comparisons 
-3. Timeseries (Drilldown from Fiscal Quarter -> Month -> Week) indicating YoY KPI declines.
-4. Two interactive tables with dynamic dimension axis enabling drilling down into the root causes of trends.
-5. A dynamic pareto chart which uses the 80-20 principle to identify best sellers.
-6. Interactive Filterpane using bookmarks 
+3. Timeseries (Drilldown from Fiscal Quarter -> Month -> Week) indicating YoY KPI declines
+4. Two interactive tables with dynamic dimension axis enabling drilling down into the root causes of trends
+5. A dynamic pareto chart which uses the 80-20 principle to identify best sellers
+6. Interactive Filter pane using bookmarks 
 
 
 ### Steps to recreate the Sales Analysis:
@@ -76,12 +76,12 @@ Financial Metric = {
 OR,  Using the "Modeling" Ribbon -> "New Parameter" -> "Fields" -> Select the fields i.e. Cost, Revenue, Profit etc.
 
 - Step 2 : Create a slicer with the Financial Metric and enable "Single select" from the "Format" Pane -> "Slicer settings" -> "Options" -> "Selection"
-![Single%20Select](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/Single%20Select.PNG)
+![Single Select](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/Single%20Select.PNG)
 
 
 #### This Year YTD vs Last Year YTD KPI Comparisons 
 
-[Link to the Date table](//https://www.daxpatterns.com/week-related-calculations/)
+[Link to the Date table](https://daxpatterns.com/week-related-calculations)
 
 Date Table Configuration to ensure:
 
