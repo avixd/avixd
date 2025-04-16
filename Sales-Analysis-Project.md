@@ -5,21 +5,19 @@
 Using the Adventure Works Database provided by Microsoft, Sales between 2015-2017 are analyzed.
 Two versions are displayed below:
 - An updated version from 2025 due to enhancements in the Power BI Desktop User Interface
-- A ![historical Project from 2022]((https://1drv.ms/v/s!AkGuKJKxOlnAgQrVkaSbRyKB1Oef?e=b4LsRw))
+- ![The historical Project from 2022]((https://1drv.ms/v/s!AkGuKJKxOlnAgQrVkaSbRyKB1Oef?e=b4LsRw))
 
-## Updated Version is shown below:
-# Problem Statements
+## Updated Version is shown below and a demonstration to the historical report is linked above 
+
+### Problem Statements
 1.	Analyze historical KPIs (Sales, Profit,  Average order value etc.) over multiple dimensions ( Product, Location, Time etc.). 
 2.	Identify bestselling products and the primary locations driving sales growth. 
 3.	What were the demographics of the top-selling customers?
 
-[Click here to download the analysis](https://github.com/avixd/dudaniavinash.github.io/blob/main/AdventureWorks_SalesAnalysis_v1.pbix)
-
-# Adventure Works Sales Analysis
-Using the Adventure Works Database, Analysis of Sales from 2015-2017 were performed using the "[AdventureWorks_Sales_Dataset](https://github.com/microsoft/powerbi-desktop-samples/blob/main/AdventureWorks%20Sales%20Sample/AdventureWorks%20Sales.xlsx)". 
+[Click here to download the updated analysis Power BI Desktop file](https://github.com/avixd/dudaniavinash.github.io/blob/main/AdventureWorks_SalesAnalysis_v1.pbix)
 
 
-# Sales Insights
+### Sales Insights
 
  - Overall KPI Highlights and KPI Timeseries
 
@@ -42,16 +40,17 @@ Using the Adventure Works Database, Analysis of Sales from 2015-2017 were perfor
 ```
 - Top 3 Subcategories namely Road Bikes (10M or 43%), Mountain Bikes (8M or 35%), and Touring bikes (4M or 17%) account for 22M or 95% of Total Revenue
 ```
-## Following functionalities available:
+### Following functionalities available:
 
 1. Dynamic Parameters enabling KPI selection.
 2. This Year YTD vs Last Year YTD KPI Comparisons 
 3. Timeseries (Drilldown from Fiscal Quarter -> Month -> Week) indicating YoY KPI declines.
 4. Two interactive tables with dynamic dimension axis enabling drilling down into the root causes of trends.
 5. A dynamic pareto chart which uses the 80-20 principle to identify best sellers.
+6. Interactive Filterpane using bookmarks 
 
 
-## Steps to recreate the Sales Analysis:
+### Steps to recreate the Sales Analysis:
 
 - Step 1 : Create a KPI Field Parameter:
 
