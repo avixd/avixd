@@ -4,9 +4,9 @@
 
 ## Hello World! 🌎
  
-🎯 Avinash is a Data analyst, Data Engineering Enthusiast  an advocate of life long learning. \
+🎯 Avinash is a Data analyst, [Content Creator](https://www.youtube.com/@Empower_Data), Data Engineering Enthusiast and an advocate of life long learning. \
 🏄‍♂️ He provides [consulting services](https://topmate.io/avinash_dudani) to clients and believes in adding value and contributing to the community.
-💬 In his free time, provides solutions on the [Microsoft Fabric Community](https://community.powerbi.com/t5/user/viewprofilepage/user-id/491338). and is a Fabric Superuser as a bi-product. 
+💬 In his free time, provides solutions on the [Microsoft Fabric Community](https://community.powerbi.com/t5/user/viewprofilepage/user-id/491338). and is a [Fabric Superuser](https://www.credly.com/badges/4d91981f-e8e8-49c7-b147-9062e117f32d/linked_in_profile) as a bi-product. 
 
 # Technical Skills:
 <img align="left" alt ="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532">
@@ -42,6 +42,7 @@ Bachelor of Technology : Mechanical Engingeering | Vellore Institute of Technolo
 
 
 # Certifications						       		
+- [Microsoft Certified: Fabric Analytics Engineer Associate](https://learn.microsoft.com/en-us/users/avinashdudani-9165/credentials/88f0c66244ddefc8?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [Microsoft Certified: Fabric Analytics Engineer Associate](https://learn.microsoft.com/en-us/users/avinashdudani-9165/credentials/21033c34b5fbf6eb?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/AvinashDudani-1643/9C08355751359CA8?sharingId=9C6E9324E58F36A7)		        		
 - [Microsoft Certified: Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/AvinashDudani-1643/5770642F4E1D9B76?sharingId=9C6E9324E58F36A7)
