@@ -5,7 +5,7 @@
 Using the Adventure Works Database provided by Microsoft, Sales between 2015-2017 are analyzed.
 Two versions are displayed below:
 - An updated version from 2025 due to enhancements in the Power BI Desktop User Interface
-- ![The historical Project from 2022]((https://1drv.ms/v/s!AkGuKJKxOlnAgQrVkaSbRyKB1Oef?e=b4LsRw))
+- ![The historical Project from 2022](https://1drv.ms/v/s!AkGuKJKxOlnAgQrVkaSbRyKB1Oef?e=b4LsRw)
 
 ## Updated Version is shown below and a demonstration to the historical report is linked above 
 
@@ -21,7 +21,7 @@ Two versions are displayed below:
 
  - Overall KPI Highlights and KPI Timeseries
 
-![](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/Overall%20KPI%20Highlights%20and%20KPI%20Timeseries.PNG)
+![Overall%20KPI%20Highlights%20and%20KPI%20Timeseries](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/Overall%20KPI%20Highlights%20and%20KPI%20Timeseries.PNG)
 
 ```
 - 4 of the 6 KPIs indicate YTD improvements.
@@ -30,16 +30,19 @@ Two versions are displayed below:
 ```
 
 - YoY Metric Comparison
-![](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/YoY%20Metric%20Comparison.PNG)
+![YoY%20Metric%20Comparison](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/YoY%20Metric%20Comparison.PNG)
+
 ```
 - Central Region indicates a YoY decline in sales in FY 2018, whereas all sub categories had revenue growth YoY
 ```
 
  - Pareto Analysis
-![](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/Pareto%20Analysis.PNG)
+![Pareto%20Analysis](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/Pareto%20Analysis.PNG)
+
 ```
 - Top 3 Subcategories namely Road Bikes (10M or 43%), Mountain Bikes (8M or 35%), and Touring bikes (4M or 17%) account for 22M or 95% of Total Revenue
 ```
+
 ### Following functionalities available:
 
 1. Dynamic Parameters enabling KPI selection.
@@ -52,9 +55,13 @@ Two versions are displayed below:
 
 ### Steps to recreate the Sales Analysis:
 
+#### METRIC FIELD PARAMETER
+
+
 - Step 1 : Create a KPI Field Parameter:
 
 Either using the code below
+
 ```
 Financial Metric = {
     ("Cost", NAMEOF('Key Measures'[Total Cost]), 1),
@@ -69,10 +76,10 @@ Financial Metric = {
 OR,  Using the "Modeling" Ribbon -> "New Parameter" -> "Fields" -> Select the fields i.e. Cost, Revenue, Profit etc.
 
 - Step 2 : Create a slicer with the Financial Metric and enable "Single select" from the "Format" Pane -> "Slicer settings" -> "Options" -> "Selection"
-![](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/Single%20Select.PNG)
+![Single%20Select](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/Single%20Select.PNG)
 
 
-2. This Year YTD vs Last Year YTD KPI Comparisons 
+#### This Year YTD vs Last Year YTD KPI Comparisons 
 
 [Link to the Date table](//https://www.daxpatterns.com/week-related-calculations/)
 
@@ -159,7 +166,7 @@ Sales YOY % = DIVIDE (
 )
 ```
 
-3. Timeseries (Drilldown from Fiscal Quarter -> Month -> Week) indicating YoY KPI declines.
+#### Timeseries (Drilldown from Fiscal Quarter -> Month -> Week) indicating YoY KPI declines.
 - Code for the YoY Metric Variance
 
 ```
@@ -189,15 +196,18 @@ SWITCH( [MetricVal],
 )
 ```
 
-4. Two interactive tables with dynamic dimension axis enabling drilling down into the root causes of trends.
+#### Two interactive tables with dynamic dimension axis enabling drilling down into the root causes of trends.
+
 - Using three field parameters the, two individual parameters for the axis and one for the KPI metric created previously enables this.
 - The dynamic headers are created by using the DAX formula "VALUES" to get the selected value from the field parameter 
 
-5. A dynamic pareto chart which uses the 80-20 principle to identify best sellers.
+
+#### A dynamic pareto chart which uses the 80-20 principle to identify best sellers.
 
 - The pareto chart is based on two measures which takes into account the selected dimension from the Pareto Parameter
 
-- The DAX measure for the ![Running total]((https://www.youtube.com/watch?v=rlUBO5qoKow))
+- The DAX measure for the [Running total](https://www.youtube.com/watch?v=rlUBO5qoKow)
+  
 ```
 RT Metric = 
 VAR _StateRev = 
