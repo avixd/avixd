@@ -76,7 +76,7 @@ Financial Metric = {
 OR,  Using the "Modeling" Ribbon -> "New Parameter" -> "Fields" -> Select the fields i.e. Cost, Revenue, Profit etc.
 
 - Step 2 : Create a slicer with the Financial Metric and enable "Single select" from the "Format" Pane -> "Slicer settings" -> "Options" -> "Selection"
-![Single Select](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/Single%20Select.PNG)
+![SingleSELECT](https://github.com/avixd/dudaniavinash.github.io/blob/main/images/Single%20Select.PNG)
 
 
 #### This Year YTD vs Last Year YTD KPI Comparisons 
