@@ -21,7 +21,7 @@ Two versions are displayed below:
 
  - Overall KPI Highlights and KPI Timeseries
 
-![KPITIMESERIES](/assets/img/Overall%20KPI%20Highlights%20and%20KPI%20Timeseries.PNG)
+![KPITIMESERIES](assets/img/Overall%20KPI%20Highlights%20and%20KPI%20Timeseries.PNG)
 
 ```
 - 4 of the 6 KPIs indicate YTD improvements.
